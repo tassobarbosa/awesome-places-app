@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/tassoeb/native-test/awesome-places-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml",
+            "outputFile": "/Users/beelabs/native-test/awesome-places-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml",
             "map": [
                 {
-                    "source": "/home/tassoeb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/9a9b54fe574ea80ca11c5f6763f57011/res/values-gu-rIN/values-gu-rIN.xml",
+                    "source": "/Users/beelabs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/47071ee0e7bb76e7b7ecc58e3e9c4e2d/res/values-gu-rIN/values-gu-rIN.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
