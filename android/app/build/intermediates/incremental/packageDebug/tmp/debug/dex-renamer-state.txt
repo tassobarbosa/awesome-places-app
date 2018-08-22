@@ -1,4 +1,4 @@
-#Mon Aug 20 16:48:05 BRT 2018
+#Wed Aug 22 09:45:30 BRT 2018
 base.0=/home/tassoeb/native-test/awesome-places-app/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
