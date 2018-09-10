@@ -1,6 +1,6 @@
 import {
   ADD_PLACE,
-  DELETE_PLACE,
+  DELETE_PLACE
 } from "../actions/actionTypes";
 
 const initialState = {
@@ -13,7 +13,7 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         places: state.places.concat({
-          key: Math.random().toString(),
+          key: Math.random(),
           name: action.placeName,
           image: {
             uri:
@@ -26,9 +26,8 @@ const reducer = (state = initialState, action) => {
         ...state,
         places: state.places.filter(place => {
           return place.key !== action.placeKey;
-        }),
+        })
       };
-
     default:
       return state;
   }
