@@ -260,6 +260,10 @@
         "source": "/home/tassoeb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/f6a79f501cb9a95cfc9a8f3e4fc825d3/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "/home/tassoeb/native-test/awesome-places-app/android/app/build/intermediates/res/merged/debug/xml_provider_paths.xml.flat",
+        "source": "/home/tassoeb/native-test/awesome-places-app/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    },
+    {
         "merged": "/home/tassoeb/native-test/awesome-places-app/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
         "source": "/home/tassoeb/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/a4706f2b1247557a94f40f66bac8d568/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
@@ -538,6 +542,10 @@
     {
         "merged": "/home/tassoeb/native-test/awesome-places-app/android/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
         "source": "/home/tassoeb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/f6a79f501cb9a95cfc9a8f3e4fc825d3/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/tassoeb/native-test/awesome-places-app/android/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/tassoeb/native-test/awesome-places-app/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/layout/list_item.xml"
     },
     {
         "merged": "/home/tassoeb/native-test/awesome-places-app/android/app/build/intermediates/res/merged/debug/animator-v21_design_appbar_state_list_animator.xml.flat",
