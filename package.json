@@ -12,12 +12,19 @@
     "start": "react-native start",
     "android": "react-native run-android",
     "ios": "react-native run-ios",
-    "test": "jest"
+    "test": "jest",
+    "postinstall": "cross-os fix-maps"
+  },
+  "cross-os": {
+    "fix-maps": {
+      "darwin": "sed -i '' '/Google.*\\.[h|m]/d' node_modules/react-native-maps/lib/ios/AirMaps.xcodeproj/project.pbxproj"
+    }
   },
   "jest": {
     "preset": "react-native"
   },
   "dependencies": {
+    "cross-os": "^1.3.0",
     "react": "16.3.1",
     "react-native": "~0.55.2",
     "react-native-image-picker": "^0.26.10",
